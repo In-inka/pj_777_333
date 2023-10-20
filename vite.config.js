@@ -10,5 +10,5 @@ export default defineConfig({
       components: '/src/components',
     },
   },
-  base: '/react_vite/pj_777_333',
+  base: '/pj_777_333',
 });
